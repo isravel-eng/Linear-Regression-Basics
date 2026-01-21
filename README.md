@@ -1,2 +1,4 @@
-# This Project Explores The basics of Linear Regression
-# Focusing on how prediction error is measured using a loss function
+# Understanding how error drives learning.
+# Visualizing loss made gradient descent clear.
+# Need more intuition on learning rate.
+
